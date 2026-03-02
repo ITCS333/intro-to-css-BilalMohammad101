@@ -153,7 +153,10 @@ border-left: 4px solid #2c3e50;
      - Change its text color to #ffffff
      - Change its left border color to #e67e22
 --------------------------------------------------------------- */
-
+.highlight { 
+background-color: #f39c12; color: #ffffff; 
+border-left: 4px solid #e67e22; 
+}
 
 
 /* ---------------------------------------------------------------
