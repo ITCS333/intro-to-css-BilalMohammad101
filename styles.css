@@ -73,7 +73,10 @@ font-size: 1rem;
      - Change the text-decoration to underline
      - Change the color to #ffffff
 --------------------------------------------------------------- */
-
+nav a:hover { 
+text-decoration: underline; 
+color: #ffffff; 
+}
 
 
 /* ---------------------------------------------------------------
