@@ -58,6 +58,12 @@ text-align: center;
      - Add 10px of margin on the left and right sides only
      - Set the font-size to 1rem
 --------------------------------------------------------------- */
+nav a {
+color: #f39c12; 
+text-decoration: none; 
+margin: 0 10px; 
+font-size: 1rem; 
+}
 
 
 
